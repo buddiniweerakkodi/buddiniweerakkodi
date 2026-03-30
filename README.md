@@ -18,7 +18,7 @@
 
 <br/>
 
-## 👨‍💻 **About Me**
+## **About Me**
 
 I am a highly motivated **Information and Communication Technology (Hons)** undergraduate at Uva Wellassa University of Sri Lanka. 
 
@@ -34,7 +34,7 @@ Currently seeking a **Full-Stack Developer Internship** to leverage my problem-s
 
 <br>
 
-## 🛠️ **Tech Stack & Tools**
+## **Tech Stack & Tools**
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -52,7 +52,7 @@ Currently seeking a **Full-Stack Developer Internship** to leverage my problem-s
 
 <br>
 
-## 🚀 **Featured Projects**
+## **Featured Projects**
 
 | Project Name | Stack | GitHub Repository | Live Demo / Design |
 | :--- | :--- | :--- | :--- |
@@ -70,7 +70,7 @@ Currently seeking a **Full-Stack Developer Internship** to leverage my problem-s
 
 <br>
 
-## 📈 **Coding Activity**
+## **Coding Activity**
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=buddiniweerakkodi&bg_color=0D1117&color=2196F3&line=2196F3&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
