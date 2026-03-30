@@ -20,7 +20,7 @@
 
 ## 👨‍💻 **About Me**
 
-I am a highly motivated **Information and Communication Technology (Hons)** undergraduate at Uva Wellassa University of Sri Lanka with a **GPA of 3.57**. 
+I am a highly motivated **Information and Communication Technology (Hons)** undergraduate at Uva Wellassa University of Sri Lanka. 
 
 Specializing in full-stack web application development, I have hands-on experience in architecting robust backend systems and building responsive, user-centric interfaces. 
 
@@ -56,11 +56,11 @@ Currently seeking a **Full-Stack Developer Internship** to leverage my problem-s
 
 | Project Name | Stack | GitHub Repository | Live Demo / Design |
 | :--- | :--- | :--- | :--- |
-| **Waste2Worth** - Full-Stack Waste Management System | `MERN Stack` | [**GitHub Repo**] | [**Live Demo**] |
-| **EchoViz** - Accessible UI/UX Prototype | `Figma` | - | [**Prototype**] |
-| **LFMS** - Lost & Found Management System | `PHP (OOP)` | [**GitHub Repo**] | - |
-| **LBBMS** - Smart Library Management System | `PHP`, `JS` | [**GitHub Repo**] | - |
-| **Touroopi** - Travel Management System | `PHP`, `JS` | [**GitHub Repo**] | - |
+| **Waste2Worth** - Full-Stack Waste Management System | `MERN Stack` | [**GitHub Repo**](https://github.com/ashenlakmal/Waste2Worth) | [**Live Demo**](https://waste2-worth-ten.vercel.app/) |
+| **EchoViz** - Accessible UI/UX Prototype | `Figma` | - | [**Prototype**](https://www.figma.com/proto/UkHp7jmTmTcOSpBBPk3isa/EchoViz?node-id=92-7&p=f&t=LDLek18PmXRCAphx-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=92%3A7) |
+| **LFMS** - Lost & Found Management System | `PHP (OOP)` | [**GitHub Repo**](https://github.com/buddiniweerakkodi/Lost-and-Found-Management-System) | [**Live Demo**](https://lfms.atwebpages.com/public/) |
+| **LBBMS** - Smart Library Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Library-Book-Borrowing-and-Management-System-LBBMS-) | [**Live Demo**](https://library-book-borrowing-and-management-system-lbbms.atwebpages.com/) |
+| **Touroopi** - Travel Management System | `PHP`, `JS` | [**GitHub Repo**](https://github.com/ashenlakmal/Touroopi) | - |
 
 <br>
 
